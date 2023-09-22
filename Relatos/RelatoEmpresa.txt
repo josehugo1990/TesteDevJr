@@ -1,0 +1,13 @@
+Boa tarde!
+
+Caro cliente, de acordo com o seu relato, identificamos alguns erros e que foram corrigidos.
+
+Identificamos a falha de espaçamentos, pontuações, campos para melhor identificar os dados dos clientes, e preços.
+
+Em relação a "experiência do usuário" a lista ao descer os produtos comprados e empresa deseja efetuar as compras, foram corrigidas as listas de forma ordenadas.
+
+Caso haver alguma dúvida, ficamos à disposição.
+
+Att.
+José Hugo
+

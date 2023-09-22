@@ -1,0 +1,32 @@
+Prezados, boa tarde!
+
+Segue correções identificadas no sistema do cliente no qual o mesmo abriu o chamado (xxxxxxxx) para determinados erros que o mesmo identificou.
+Abaixo irá vê as correções e detalhes/descrição onde foi efetuado as correções.
+
+Caso de dúvidas, por favor, me retornar.
+
+Att.
+José Hugo.
+
+
+REGRA DE NEGÓCIOS:
+
+Houve dúvidas, não consegui identificar algum erro.
+
+CÓDIGO:
+
+Detalhes da venda - Foi identificado que não está incluído os campos "nome e idade". (Corrigido)
+
+
+ESTRUTURAS DE DADOS:
+
+-Efetuado as correções das estruturas nas classes: Venda, Empresa, Cliente. (Corrigido)
+-Foi identificado que as estruturas/organização (de acordo com seus ID's) das empresas, clientes e produtos não estão bem organizados. (Corrigido)
+-Organização dos Id's d "Clientes, Empresa e Produtos" em ordem crescentes. (Corrigido)
+Preço: Correção de espaço e o sinal de pontuação ":". (Corrigido)
+Líquido para empresa: Correção do cifrão "R$" e espaço. (Corrigido)
+
+EXPERIÊNCIA DO USUÁRIO:
+
+-Efetuado as correções das listas dos produtos e compras efetuada, ao descer de forma organizada na qual o Cliente pode efetuar as suas compras de forma mais organizadas.
+- Efetuado a correção em "Resumo da compra" o espaçamento do valor das compras.
